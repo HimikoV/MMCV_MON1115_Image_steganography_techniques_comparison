@@ -1,6 +1,4 @@
-# MMCV_MON1115-TBA-
-Traffic sign recognition using neural networks vs feature based algorithm
-
+# MMCV_MON1115_Image_steganography_techniques_comparison
 
 ## Prerequisities:
 
