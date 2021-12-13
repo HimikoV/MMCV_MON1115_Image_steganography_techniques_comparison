@@ -247,13 +247,13 @@ if __name__ == "__main__" or True:
             xa = pyplot.imread(args.output)
             xb = decodeImage(xa, xmap, margins, oa)
 
-            pyplot.figure()
-            pyplot.subplot(221)
-            imshowEx(ea, title="enco")
-            pyplot.subplot(222)
-            imshowEx(normalizedRGB(xa) - normalizedRGB(oa), title="delt")
-            pyplot.subplot(223)
-            imshowEx(fa, title="freq")
-            pyplot.subplot(224)
-            imshowEx(xb, title="deco")
-            pyplot.show()  # display
+            # pyplot.figure()
+            # pyplot.subplot(221)
+            # imshowEx(ea, title="enco")
+            # pyplot.subplot(222)
+            # imshowEx(normalizedRGB(xa) - normalizedRGB(oa), title="delt")
+            # pyplot.subplot(223)
+            # imshowEx(fa, title="freq")
+            # pyplot.subplot(224)
+            # imshowEx(xb, title="deco")
+            # pyplot.show()  # display
