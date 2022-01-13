@@ -1,2 +1,2 @@
 cd DFT
-python test.py -o test2.jpg -t "secret message?11" -a 30 -v test.jpg
+python test.py -o test2.jpg -t "secret message?" -a 30 -v test.jpg
