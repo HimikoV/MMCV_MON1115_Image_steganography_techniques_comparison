@@ -247,6 +247,7 @@ if __name__ == "__main__" or True:
             xa = pyplot.imread(args.output)
             xb = decodeImage(xa, xmap, margins, oa)
 
+
             # pyplot.figure()
             # pyplot.subplot(221)
             # imshowEx(ea, title="enco")
